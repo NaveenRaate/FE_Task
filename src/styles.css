@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.MuiButton-root {
+  min-width: 100% !important;
+  height: 100% !important;
+  background-color: #1976d2 !important;
+  color: whitesmoke !important;
+  padding: 6px 2px !important;
+}
+
+.MuiButton-root:hover {
+  background-color: rgb(45, 151, 223) !important;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border: 4px solid rgb(255, 255, 255);
+}
+a:-webkit-any-link {
+  text-decoration: none;
+  font-size: 1.3em;
+  color: black;
+}
